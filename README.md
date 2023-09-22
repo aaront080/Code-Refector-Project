@@ -9,6 +9,6 @@ assignment 1
 -Ensuring your code meets nodern accessability standards is essential for a full-stack developer as it allows some individuals with disabilities to interact with your web applications.
 -This exercise has taught me to keep accessability standard in mind as I create my own code in the future.
 
-##Table of contents
+## Table of contents
 
--[Webpage Preview] (#Webpage Preview)
+- [Webpage Preview] (#Webpage Preview)
