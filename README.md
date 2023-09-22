@@ -16,7 +16,7 @@
 
 ### Application URL
 
-[Application URL] (https://aaront080.github.io/Code-Refector-Project)
+(https://aaront080.github.io/Code-Refector-Project)
 
 
 
