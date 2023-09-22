@@ -1,7 +1,8 @@
 # Code-Refector-Project
-assignment 1
 
-## Description
+## Assignment 1
+
+### Description
 
 -The goal of this exercise is take a look at existing code and analyze it to ensure it meets modern accessability standards.
 
